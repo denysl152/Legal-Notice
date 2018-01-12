@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Lato');
+.App {
+width:auto;
+padding:90px;
+}
+.Container-Information{
+  width:auto;
+  margin-left:15%;
+  border: 3px solid #1f451a; 
+  margin-right: 20%;
+  border-radius:15px;
+  
+}
+.Container-LégalNotice{
+  font-family:'Montserrat', sans-serif; 
+  margin-top:10%;
+  padding:10px; 
+}
+.Big-Title{
+font-family: Lato,sans-serif;
+margin-bottom:20px;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+}
+.Information {
+  font-family: 'Lato', sans-serif;
+  margin-left:25%;
+} 
+.LégalNotice {
+letter-spacing:1.2px;
+margin: 0px,10px;
+border-color: #1f451a;
+background-color: #1f451a;
+color: #fce77e;
+border-radius:8px;
+height:80px;
+text-align: center;
+}
